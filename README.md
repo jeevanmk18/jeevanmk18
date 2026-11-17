@@ -1,9 +1,15 @@
 
-# Hi 👋, I'm Jeevan M. K.
-### Aspiring Embedded Systems & Firmware Engineer
 
-Passionate about Embedded Systems, Firmware Development, and C Programming.  
-Currently pursuing Embedded Systems training at Emertxe Information Technologies.
+<h1 align="center"><b>Hi 👋, I'm Jeevan M. K.</b></h1>
+
+<h2 align="center"><b>Aspiring Embedded Systems & Firmware Engineer</b></h2>
+
+<p align="center">
+  <b>Passionate about Embedded Systems, Firmware Development, and C Programming.</b>
+  <br>
+  Currently pursuing Embedded Systems training at <b>Emertxe Information Technologies</b>.
+</p>
+
 
 ---
 
