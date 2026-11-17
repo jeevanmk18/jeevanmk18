@@ -1,157 +1,146 @@
-```markdown
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jeevan%20M%20K&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Software%20Engineer&descAlignY=60"/>
-</p>
 
-<h1 align="center">Hi 👋, I'm Jeevan M K</h1>
+# Hi 👋, I'm Jeevan M. K.
+### Aspiring Embedded Systems & Firmware Engineer
 
-<h3 align="center">
-Embedded Software Engineer • Embedded C • STM32 • RTOS • Linux
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Embedded+Software+Engineer;Firmware+Developer;STM32+%7C+RTOS+%7C+Embedded+Linux;Always+Learning+Something+New..." />
-</p>
+Passionate about Embedded Systems, Firmware Development, and C Programming.  
+Currently pursuing Embedded Systems training at Emertxe Information Technologies.
 
 ---
 
-## 💫 About Me
+## 👨‍💻 About Me
 
-- 💻 Passionate about Embedded Software Development
-- 🌱 Currently learning STM32, RTOS, Embedded Linux & Device Drivers
-- 🔭 Building Embedded C Projects
-- ⚙ Interested in Firmware Development
-- 📚 Improving Data Structures & Algorithms
-- 🎯 Goal: Become a Professional Embedded Software Engineer
-
----
-
-## 🚀 Languages & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=arduino"/>
-
-</p>
+- 🎓 Electronics and Communication Engineering graduate
+- 🌱 Currently learning **Embedded C, Microcontroller Programming, and Embedded Systems**
+- 💡 Interested in **Firmware Development, Low-Level Programming, and System Programming**
+- 💻 Practicing **C, C++, Data Structures, Pointers, and Memory Management**
+- 🔧 Working with **ESP32, Arduino, and PIC microcontrollers**
+- 🚀 Looking for opportunities as an **Embedded Systems Engineer** or **Firmware Engineer**
 
 ---
 
-## 📚 Currently Learning
+## 🛠️ Technical Skills
 
-- Embedded C
-- STM32
-- RTOS
-- Embedded Linux
-- Linux Device Drivers
-- UART
-- SPI
-- I2C
-- CAN
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+### Embedded Systems
+- Embedded C Programming
+- Microcontrollers: ESP32, Arduino, PIC
+- GPIO, Timers, Counters and Interrupts
+- UART, SPI and I2C
+- Microcontroller Peripheral Interfacing
 
-## 📂 Featured Projects
+### Core Concepts
+- Pointers and Dynamic Memory Allocation
+- Data Structures and Linked Lists
+- Bitwise Operations
+- File Handling
+- Command-Line Applications
+- Debugging and Problem Solving
 
-- 📒 Address Book in C
-- 📁 File Handling Library
-- 🔢 Bit Manipulation
-- 📟 UART Driver
-- 📡 I2C Driver
-- 🔄 SPI Driver
-- 🌡 Temperature Monitoring
-- 🧵 RTOS Projects
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=jeevanmk18&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanmk18&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+### Development Tools
+- MPLAB X IDE
+- GCC
+- Visual Studio Code
+- Git and GitHub
 
 ---
 
-## 🔥 GitHub Streak
+## 🚀 Featured Projects
 
-<p align="center">
+### 🧮 1. Arbitrary Precision Calculator (APC)
+A C-based calculator that performs arithmetic operations on large integers using doubly linked lists.
 
-<img src="https://streak-stats.demolab.com?user=jeevanmk18&theme=tokyonight&hide_border=true"/>
+**Key Features:**
+- Addition, subtraction, multiplication
+- Division and modulus
+- Large-number arithmetic beyond built-in data type limits
 
-</p>
+🔗 [View Project on GitHub](https://github.com/jeevanmk18)
+
+### 🎵 2. MP3 Tag Reader & Editor
+A C application to read and edit MP3 metadata using ID3 tags and file handling.
+
+**Key Features:**
+- Extract MP3 metadata
+- Parse ID3 frames
+- Edit supported metadata fields
+- Perform file operations in C
+
+🔗 [View MP3 Tag Reader Repository](https://github.com/jeevanmk18)
+
+### 🔎 3. Inverted Search
+A C-based text indexing and searching application using hashing and linked lists.
+
+**Key Features:**
+- Create an index from multiple text files
+- Search for words efficiently
+- Display and save the database
+- Update an existing database
+
+🔗 [View Inverted Search Repository](https://github.com/jeevanmk18)
+
+### 📒 4. Address Book Management System
+A menu-driven contact management application developed in C using structures and file handling.
+
+**Key Features:**
+- Create, search, edit and delete contacts
+- Store and retrieve contact information
+- Use pointers, structures and file operations
+
+🔗 [View Address Book Repository](https://github.com/jeevanmk18/AddresssBook)
+
+### 🖼️ 5. LSB Image Steganography
+A C project that hides and retrieves information within image files using Least Significant Bit (LSB) techniques.
+
+**Key Features:**
+- Encode secret data into supported BMP images
+- Decode and recover hidden data
+- Work with bitwise operations and file handling
+
+🔗 [Add your Image Steganography repository link here](https://github.com/jeevanmk18)
+
+### 🔐 6. Trust-Score-Driven Intelligent Intrusion Detection System
+A final-year project focused on identifying suspicious network activities using trust-score analysis.
+
+**Key Features:**
+- Analyze network activity
+- Apply trust-score-based evaluation
+- Identify potentially malicious behavior
+
+🔗 [Add your project repository link here](https://github.com/jeevanmk18)
 
 ---
 
-## 📈 Contribution Graph
+## 🌱 Currently Learning
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevanmk18&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jeevanmk18&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
+- Embedded C and Advanced C Programming
+- Microcontroller Peripherals and Interfacing
+- Linux Internals
+- RTOS Fundamentals
+- Communication Protocols
+- Firmware Debugging
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Statistics
 
-📧 **Email:** jeevanjeevanmk@gmail.com
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeevanmk18&show_icons=true&theme=tokyonight)
 
-🐙 **GitHub:** https://github.com/jeevanmk18
-
-💼 **LinkedIn:** *(Add your LinkedIn profile URL)*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanmk18&layout=compact&theme=tokyonight)
 
 ---
 
-## 💭 Quote
+## 🤝 Connect With Me
 
-> "Every great embedded system starts with a single line of C code."
+- 💼 LinkedIn: [Jeevan M. K.](https://www.linkedin.com/in/jeevanmk)
+- 💻 GitHub: [jeevanmk18](https://github.com/jeevanmk18)
+- 🌐 Portfolio: **Add your live portfolio URL here**
+- 📧 Email: **Add your professional email here**
 
 ---
 
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my projects, don't forget to ⭐ them.
-
-</p>
-
-<!-- Animated Footer -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-</p>
-```
-
-
-![banner](jeevan-banner-light.svg)
+⭐ *Always learning, building, and exploring Embedded Systems.*
